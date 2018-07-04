@@ -3,12 +3,12 @@
 Create an iOS app — like Prisma — with CoreML, Fast Style Transfer, and TensorFlow.
 
 <p align="center">
-  <img src="https://github.com/mdramos/fast-style-transfer-coreml/blob/master/assets/banner.jpg?raw=true" width="700"/>
+  <img src="https://github.com/intrepidkarthi/MLmobileapps/tree/master/Chapter3/assets/banner.jpg?raw=true" width="700"/>
 </p>
 
 ## Installation
 ```bash
-git clone https://github.com/mdramos/fast-style-transfer-coreml.git
+git clone https://github.com/intrepidkarthi/MLmobileapps.git
 ```
 
 ## Dependencies
@@ -31,6 +31,3 @@ CoreML Models: https://drive.google.com/drive/folders/1CBSanBHbXC5-bJNTTk3-r1WSq
 Once you have your models, just import them into the Xcode project. The current setup looks for a particular set of models (wave, udnie, rain_princess, and la_muse)
 
 
-## License
-Copyright (c) 2018 Michael Ramos.
-MIT on any of my code, but you'll need to abide by the Licences of the libraries used (FST, tf-coreml)
