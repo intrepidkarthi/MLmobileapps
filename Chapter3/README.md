@@ -3,7 +3,7 @@
 Create an iOS app — like Prisma — with CoreML, Fast Style Transfer, and TensorFlow.
 
 <p align="center">
-  <img src="https://github.com/intrepidkarthi/MLmobileapps/tree/master/Chapter3/assets/banner.jpg?raw=true" width="700"/>
+  <img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter3/assets/banner.jpg?raw=true" width="700"/>
 </p>
 
 ## Installation
