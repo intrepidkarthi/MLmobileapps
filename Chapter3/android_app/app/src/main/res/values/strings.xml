@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtStyler</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="picture">Picture</string>
+    <string name="description_info">Hello string</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="request_permission_storage">Storage permission required for sharing.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">Welcome</string>
+    <string name="apply_style">Apply Style</string>
+    <string name="share">Share</string>
+    <string name="pickfromgallery">Pick From Gallery</string>
+    <string name="front_cam">Toggle Front Camera</string>
+    <string name="request_permission_storage_capture">Storage permission required to capture images.</string>
+</resources>
