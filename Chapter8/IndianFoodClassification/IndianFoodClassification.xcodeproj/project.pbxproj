@@ -13,7 +13,7 @@
 		11063F691EC0EECC0033EE6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11063F681EC0EECC0033EE6D /* Assets.xcassets */; };
 		11063F741EC0F5270033EE6D /* CGImagePropertyOrientation+UIImageOrientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11063F731EC0F5270033EE6D /* CGImagePropertyOrientation+UIImageOrientation.swift */; };
 		113695D81EC1151400CA6C43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 113695D61EC1151400CA6C43 /* LaunchScreen.storyboard */; };
-		230978F62158D06400C43783 /* indian_food.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 230978F52158D06400C43783 /* indian_food.mlmodel */; };
+		230978F62158D06400C43783 /* food_graph.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 230978F52158D06400C43783 /* food_graph.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		11063F6D1EC0EECC0033EE6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		11063F731EC0F5270033EE6D /* CGImagePropertyOrientation+UIImageOrientation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGImagePropertyOrientation+UIImageOrientation.swift"; sourceTree = "<group>"; };
 		113695D71EC1151400CA6C43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		230978F52158D06400C43783 /* indian_food.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = indian_food.mlmodel; path = Model/indian_food.mlmodel; sourceTree = "<group>"; };
+		230978F52158D06400C43783 /* food_graph.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = food_graph.mlmodel; path = Model/food_graph.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 		11063F601EC0EECC0033EE6D /* IndianFoodClassification */ = {
 			isa = PBXGroup;
 			children = (
-				230978F52158D06400C43783 /* indian_food.mlmodel */,
+				230978F52158D06400C43783 /* food_graph.mlmodel */,
 				11063F611EC0EECC0033EE6D /* AppDelegate.swift */,
 				11063F631EC0EECC0033EE6D /* ImageClassificationViewController.swift */,
 				11063F731EC0F5270033EE6D /* CGImagePropertyOrientation+UIImageOrientation.swift */,
@@ -150,7 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				11063F741EC0F5270033EE6D /* CGImagePropertyOrientation+UIImageOrientation.swift in Sources */,
-				230978F62158D06400C43783 /* indian_food.mlmodel in Sources */,
+				230978F62158D06400C43783 /* food_graph.mlmodel in Sources */,
 				11063F641EC0EECC0033EE6D /* ImageClassificationViewController.swift in Sources */,
 				11063F621EC0EECC0033EE6D /* AppDelegate.swift in Sources */,
 			);
