@@ -16,4 +16,6 @@ You can see the final output on the chart.
 
 Adding the screenshot below:
 
-
+<div align="center">
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter1/screenshot.png" alt="Linear Regression" width="500" height="350" />
+</div>
