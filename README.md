@@ -1,5 +1,5 @@
 # MLmobileapps
-Repository for Machine Learning Projects for Mobile Applications book
+Repository for Machine Learning Projects for Mobile Applications book. Book is available here: https://www.amazon.com/Machine-Learning-Projects-Mobile-Applications/dp/1788994590
 
 # Key Features
 Explore machine learning using classification, analytics, and detection tasks.
