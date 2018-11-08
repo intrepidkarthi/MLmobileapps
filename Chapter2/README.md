@@ -20,20 +20,14 @@ There are a lot of other use cases as well. Once you improve accuracy of the dat
 This demo is based on the age, gender and emotion neural network classifiers,
 which were converted from `Caffe` models to `CoreML` models using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 
-### Age classification
+### Downloads
 
-- [Paper](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
-- [CoreML model](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing)
+- [Age & Gender Paper](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+- [Age prediction model](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing)
+- [Gender prediction model](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing)
 
-### Gender classification
-
-- [Paper](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
-- [CoreML model](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing)
-
-### Emotion Recognition
-
-- [Paper](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
-- [CoreML model](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing)
+- [Emotion Paper](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
+- [Emotion prediction model](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing)
 
 ## Requirements
 
