@@ -35,7 +35,7 @@ which were converted from `Caffe` models to `CoreML` models using [coremltools](
 
 ```sh
 git clone https://github.com/intrepidkarthi/MLmobileapps.git
-cd MLmobileapps
+cd MLmobileapps/Chapter2
 pod install
 open Faces.xcworkspace/
 ```
