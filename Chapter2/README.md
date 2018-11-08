@@ -1,6 +1,15 @@
 # CNN based Age, Gender & Emotion Prediction
 
-iOS11 demo application for age and gender classification of facial images using `Vision` and `CoreML`.
+iOS11 demo application for age and gender classification of facial images using `Vision` and `CoreML`. In this chapter, we are going to build an iOS application to detect the age, gender, and emotion of a person from the camera feed or from the user's photo gallery. We will use existing data models that were built for the same purpose using the Caffe machine learning (ML) library, and convert those models into Core ML models for the ease of use in our application. We will discuss more how Convolutional Neural Networks (CNNs) work in terms of predicting age, gender, and emotion with the sample application. This application can be useful with multiple use cases. 
+
+A few cases are as follows: 
+ - Finding what kind of photos you capture by parsing all the photos from your gallery 
+ - Understanding the customer entering a location (hospital, restaurant, and so on) 
+ - Figuring out the right marketing data by actually capturing emotions
+ - Making cars safer by understanding the driver's emotions 
+ 
+There are a lot of other use cases as well. Once you improve accuracy of the data model, you can figure out more and more use cases. 
+
 
 <div align="center">
 <img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Screenshot.png" alt="Age Gender classification" width="300" height="464" />
