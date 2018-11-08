@@ -12,7 +12,7 @@ There are a lot of other use cases as well. Once you improve accuracy of the dat
 
 
 <div align="center">
-<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter2/screenshot.png" alt="Age Gender classification" width="300" height="464" />
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter2/screenshot.png" alt="Age Gender classification" width="300" height="500" />
 </div>
 
 ## Model
