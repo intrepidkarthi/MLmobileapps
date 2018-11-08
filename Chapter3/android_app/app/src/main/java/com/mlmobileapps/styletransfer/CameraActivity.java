@@ -95,7 +95,7 @@ public class CameraActivity extends AppCompatActivity{
                         ResultHolder.setImage(bitmap);
                         ResultHolder.setNativeCaptureSize(mCameraView.getCaptureSize());
                         ResultHolder.setTimeToCallback(callbackTime - captureStartTime);
-                        Intent intent = new Intent(getApplicationContext(), ShowImageActivity.class);
+                        Intent intent = new Intent(getApplicationContext(), ResultImageActivity.class);
                         startActivity(intent);
                     }
                 });

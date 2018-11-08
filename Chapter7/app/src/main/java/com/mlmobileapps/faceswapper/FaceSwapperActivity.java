@@ -1045,9 +1045,7 @@ public class FaceSwapperActivity extends AppCompatActivity implements TabLayout.
         if (granted) {
             return true;
         }
-
         ActivityCompat.requestPermissions(this, requests, MY_PERMISSIONS_REQUEST_READ_CONTACTS);
-
         return granted;
     }
 

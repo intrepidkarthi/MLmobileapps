@@ -209,7 +209,7 @@ public class ImageClassifier {
 //    Log.d(TAG, "Timecost to put values into ByteBuffer: " + Long.toString(endTime - startTime));
   }
 
-  /** Prints top-K labels, to be shown in UI as the results. */
+  /** Prints top labels, to be shown in UI as the results. */
   private String printTopKLabels() {
     for (int i = 0; i < labelList.size(); ++i) {
       sortedLabels.add(

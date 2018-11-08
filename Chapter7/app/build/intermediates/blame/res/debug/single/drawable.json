@@ -4,10 +4,6 @@
         "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_adjust_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_adjust_24dp.xml"
-    },
-    {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_contrast.xml",
         "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_contrast.xml"
     },
@@ -24,32 +20,24 @@
         "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_compare_arrows_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_compare_arrows_24dp.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_dark.xml",
-        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_dialog_close_dark.xml"
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
         "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_dark.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/cf4422b74c9416c4eca0de810073606220417ba0/output/res/drawable/mr_dialog_close_dark.xml"
     },
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
         "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_mute.xml"
     },
     {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_clear_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_clear_24dp.xml"
+        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/mr_button_light.xml",
@@ -66,10 +54,6 @@
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
         "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_notification_pause.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_tune_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_tune_24dp.xml"
     },
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
@@ -152,10 +136,6 @@
         "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_share_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_share_24dp.xml"
-    },
-    {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
         "source": "/Users/karthikeyan/.android/build-cache/a1d4adca68ef4cff0218a21148573cb04eba4147/output/res/drawable/design_snackbar_background.xml"
     },
@@ -190,10 +170,6 @@
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
         "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_more_vert_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_more_vert_24dp.xml"
     },
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
@@ -236,24 +212,8 @@
         "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_edit_white_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_edit_white_24dp.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_brightness_high_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_brightness_high_24dp.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_rotate_90_degrees_ccw_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_rotate_90_degrees_ccw_24dp.xml"
-    },
-    {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
         "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_compare_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_compare_24dp.xml"
     },
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_face_48dp.xml",
@@ -266,10 +226,6 @@
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
         "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_stop.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/water_stamp.png",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/water_stamp.png"
     },
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
@@ -314,10 +270,6 @@
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
         "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_vector_test.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_send_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_send_24dp.xml"
     },
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
@@ -424,16 +376,8 @@
         "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_check_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_check_24dp.xml"
-    },
-    {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
         "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/notification_bg.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_save_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_save_24dp.xml"
     },
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
@@ -476,10 +420,6 @@
         "source": "/Users/karthikeyan/.android/build-cache/9d43cdec64ed67e9d21f0b29d0ea8c35b86b3eb9/output/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/photo_place.png",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/photo_place.png"
-    },
-    {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
         "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
     },
@@ -516,10 +456,6 @@
         "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_mini_controller_forward30.xml"
     },
     {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_looks_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_looks_24dp.xml"
-    },
-    {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
         "source": "/Users/karthikeyan/.android/build-cache/8aae88844d38cadcbaa1ea40f27344da7d5fadd8/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
@@ -534,10 +470,6 @@
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
         "source": "/Users/karthikeyan/.android/build-cache/21c7caea62e7e8e0ea9c6e5e365f6afa3f37560c/output/res/drawable/cast_ic_expanded_controller_mute.xml"
-    },
-    {
-        "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/ic_edit_24dp.xml",
-        "source": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/src/main/res/drawable/ic_edit_24dp.xml"
     },
     {
         "merged": "/Users/karthikeyan/Documents/code/book/MLmobileapps/Chapter7/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",

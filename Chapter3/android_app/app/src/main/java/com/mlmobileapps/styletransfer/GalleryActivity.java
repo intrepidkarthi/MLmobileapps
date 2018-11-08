@@ -52,7 +52,7 @@ public class GalleryActivity extends AppCompatActivity {
                 Bitmap bitmap = BitmapFactory.decodeByteArray(buffer, 0, buffer.length, bmOptions);
                 ResultHolder.dispose();
                 ResultHolder.setImage(bitmap);
-                Intent intent = new Intent(getApplicationContext(), ShowImageActivity.class);
+                Intent intent = new Intent(getApplicationContext(), ResultImageActivity.class);
                 startActivity(intent);
             } catch (FileNotFoundException e) {
                 e.printStackTrace();

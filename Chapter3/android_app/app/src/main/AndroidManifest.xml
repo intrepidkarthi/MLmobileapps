@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.mlmobileapps.styletransfer.ShowImageActivity"
+            android:name="com.mlmobileapps.styletransfer.ResultImageActivity"
             android:screenOrientation="portrait"
             android:parentActivityName="com.mlmobileapps.styletransfer.CameraActivity"/>
         <activity

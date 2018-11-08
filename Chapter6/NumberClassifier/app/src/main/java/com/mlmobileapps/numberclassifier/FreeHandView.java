@@ -70,7 +70,6 @@ public class FreeHandView extends View {
         mPaint.setAntiAlias(true);
         mPaint.setDither(true);
         mPaint.setColor(DEFAULT_COLOR);
-        //mPaint.setAlpha(DEFAULT_COLOR);
         mPaint.setStyle(Paint.Style.STROKE);
         mPaint.setStrokeJoin(Paint.Join.ROUND);
         mPaint.setStrokeCap(Paint.Cap.ROUND);

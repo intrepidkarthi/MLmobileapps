@@ -49,7 +49,8 @@ import android.os.SystemClock;
  * The simulation is configured to run at a universal real time rate, regardless of the performance
  * of the device in which it is run and how frequently updates are received.
  */
-class EyePhysics {
+class
+EyePhysics {
 
   private static final String TAG = "EyePhysics";
 
