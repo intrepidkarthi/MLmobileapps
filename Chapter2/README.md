@@ -1,4 +1,4 @@
-# Age & Gender Classifier
+# CNN based Age, Gender & Emotion Prediction
 
 iOS11 demo application for age and gender classification of facial images using `Vision` and `CoreML`.
 
