@@ -7,9 +7,27 @@ The best use case for this chapter is based on a photo-editing app called Prisma
 
 
 ## Android
-```bash
-git clone https://github.com/intrepidkarthi/MLmobileapps.git
-```
+
+Open the code base in Android Studio.
+<div align="center">
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter3/assets/pic1.png" alt="Without style" width="300" height="500" />
+</div>
+
+<div align="center">
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter3/assets/pic2.png" alt="With style" width="300" height="500" />
+</div>
+
+
+## iOS
+
+Once you have your models, just import them into the Xcode project. The current setup looks for a particular set of models (wave, udnie, rain_princess, and la_muse)
+<div align="center">
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter3/assets/pic3.png" alt="Without style" width="300" height="500" />
+</div>
+
+<div align="center">
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter3/assets/pic4.png" alt="With style" width="300" height="500" />
+</div>
 
 ## Dependencies
 
@@ -20,8 +38,5 @@ git clone https://github.com/intrepidkarthi/MLmobileapps.git
 * TensforFlow-CoreML: https://github.com/tf-coreml/tf-coreml
 
 
-## iOS
-
-Once you have your models, just import them into the Xcode project. The current setup looks for a particular set of models (wave, udnie, rain_princess, and la_muse)
 
 
