@@ -1,9 +1,12 @@
-# Fast Style Transfer, CoreML, TensorFlow
+# Applying Neural Style Transl& on Photos 
 
-Create an Android & iOS app — like Prisma — with CoreML, Fast Style Transfer, and TensorFlow.
+In this chapter, we are going to build a complete iOS and Android application in which image transformations are applied to our own images in a fashion similar to the Instagram app. For this application, we are going to use Core ML and TensorFlow models again with the help of TensorFlow. To make this work, we will have to perform some small hacks. 
+
+The best use case for this chapter is based on a photo-editing app called Prisma with which you can convert your images into paintings using neural networks. You can convert your image into an art form that looks like it was painted by Picasso or Salvador Dali. 
 
 
-## Installation
+
+## Android
 ```bash
 git clone https://github.com/intrepidkarthi/MLmobileapps.git
 ```
