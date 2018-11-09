@@ -1,9 +1,6 @@
 //
 //  ClassificationServiceProtocol.swift
-//  Faces
-//
 //  Created by Karthikeyan NG on 6/26/18.
-//  Copyright © 2018 Vadym Markov. All rights reserved.
 //
 
 import Vision
@@ -27,7 +24,7 @@ public extension ClassificationServiceProtocol {
     /// Handle results of the classification request
     func extractClassificationResult(from request: VNRequest, count: Int) -> String {
         guard let observations = request.results as? [VNClassificationObservation] else {
-            return " ¯\\_(ツ)_/¯ "
+            return " awesome buddy! "
         }
         return observations
             .prefix(upTo: count)

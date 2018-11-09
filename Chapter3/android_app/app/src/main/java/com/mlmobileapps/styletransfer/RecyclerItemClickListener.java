@@ -1,8 +1,5 @@
 package com.mlmobileapps.styletransfer;
 
-/**
- * Created by Deepesh on 5/21/2017.
- */
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;

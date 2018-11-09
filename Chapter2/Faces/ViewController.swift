@@ -1,4 +1,7 @@
-import VisionLab
+import Vision
+import UIKit
+//"UIKit", "Vision", "CoreML"
+
 
 final class ViewController: ImageClassificationController<ClassificationService> {
   override func viewDidLoad() {

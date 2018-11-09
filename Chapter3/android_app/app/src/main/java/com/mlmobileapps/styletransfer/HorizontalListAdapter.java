@@ -9,9 +9,7 @@ import android.widget.ImageView;
 
 import java.util.ArrayList;
 
-/**
- * Created by Deepesh on 5/21/2017.
- */
+
 
 public class HorizontalListAdapter extends RecyclerView.Adapter<HorizontalListAdapter.MyViewHolder> {
     private ArrayList<Bitmap> bmList;
