@@ -7,9 +7,16 @@ The best use case for this chapter is based on a photo-editing app called Prisma
 
 
 ## Android
-```bash
-git clone https://github.com/intrepidkarthi/MLmobileapps.git
-```
+
+Open the code base in Android Studio.
+<div align="center">
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter3/assets/pic1" alt="Without style" width="300" height="500" />
+</div>
+
+<div align="center">
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter3/assets/pic2" alt="With style" width="300" height="500" />
+</div>
+
 
 ## Dependencies
 
