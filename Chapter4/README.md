@@ -9,10 +9,22 @@ The concepts covered throughout the chapter are as follows:
 
 This major part of this chapter is from [official quick start samples](https://github.com/firebase/quickstart-android).
 
-Customed feature:
+Screenshots:
 1. Face detection
+
+<div align="center">
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter4/assets/pic1.png" alt="face detection" width="300" height="500" />
+</div>
 2. Barcode scanning
+
+<div align="center">
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter4/assets/pic2.png" alt="barcode scanning" width="300" height="500" />
+</div>
 3. Text recognition
+
+<div align="center">
+<img src="https://github.com/intrepidkarthi/MLmobileapps/blob/master/Chapter4/assets/pic3.png" alt="text recognition" width="300" height="500" />
+</div>
 
 ## Compile
 Import the project into Android Studio.
