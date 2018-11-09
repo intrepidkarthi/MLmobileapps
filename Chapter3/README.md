@@ -1,4 +1,4 @@
-# Applying Neural Style Transl& on Photos 
+# Applying Neural Style Transfer on Photos 
 
 In this chapter, we are going to build a complete iOS and Android application in which image transformations are applied to our own images in a fashion similar to the Instagram app. For this application, we are going to use Core ML and TensorFlow models again with the help of TensorFlow. To make this work, we will have to perform some small hacks. 
 
