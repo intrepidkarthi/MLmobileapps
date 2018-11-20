@@ -1,16 +1,4 @@
 
-//
-
-
-
-//
-
-//
-
-
-
-
-
 package com.mlmobileapps.mlkit;
 
 /** Describing a frame info. */

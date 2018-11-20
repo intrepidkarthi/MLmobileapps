@@ -468,7 +468,7 @@ public class FaceSwapperActivity extends AppCompatActivity implements TabLayout.
             if (infoToast != null) {
                 infoToast.cancel();
             }
-            final Toast toast = showInfoToast(getString(R.string.info_swapping));
+            final Toast toast = showInfoToast(getString(R.string.swap_button_info));
             infoToast = toast;
 
             // Must have this for not to lock uithread

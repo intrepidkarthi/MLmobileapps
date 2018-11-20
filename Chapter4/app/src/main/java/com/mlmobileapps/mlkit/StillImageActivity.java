@@ -1,15 +1,4 @@
 
-//
-
-
-
-//
-
-//
-
-
-
-
 
 package com.mlmobileapps.mlkit;
 

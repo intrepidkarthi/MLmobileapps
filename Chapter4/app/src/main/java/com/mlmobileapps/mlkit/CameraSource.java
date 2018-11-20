@@ -1,17 +1,4 @@
 
-//
-
-
-
-//
-
-//
-
-
-
-
-
-
 package com.mlmobileapps.mlkit;
 
 import android.Manifest;

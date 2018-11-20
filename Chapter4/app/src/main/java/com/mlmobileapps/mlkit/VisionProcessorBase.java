@@ -1,16 +1,4 @@
 
-//
-
-
-
-//
-
-//
-
-
-
-
-
 package com.mlmobileapps.mlkit;
 
 import android.graphics.Bitmap;

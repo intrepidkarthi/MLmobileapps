@@ -291,7 +291,7 @@ class ImageUtils {
         int h = bitmap.getHeight();
         int w = bitmap.getWidth();
 
-        Bitmap waterBitmap = BitmapFactory.decodeResource(context.getResources(), R.drawable.water_stamp);
+        Bitmap waterBitmap = BitmapFactory.decodeResource(context.getResources(), R.mipmap.ic_launcher);
         double maxH        = (double) h * (double) w * 0.00005f;
         double ratio       = (double) (waterBitmap.getWidth()) / (double) (waterBitmap.getHeight());
         double maxW        = maxH * ratio;

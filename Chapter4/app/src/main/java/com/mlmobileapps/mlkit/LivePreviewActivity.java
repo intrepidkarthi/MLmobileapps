@@ -1,16 +1,3 @@
-
-//
-
-
-
-//
-
-//
-
-
-
-
-
 package com.mlmobileapps.mlkit;
 
 import android.content.Context;
@@ -43,8 +30,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/** Demo app showing the various features of ML Kit for Firebase. This class is used to
- * set up continuous frame processing on frames from a camera source. */
+
 @KeepName
 public final class LivePreviewActivity extends AppCompatActivity
     implements OnRequestPermissionsResultCallback,
